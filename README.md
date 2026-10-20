@@ -37,7 +37,7 @@ Experimental: no single design was chosen. Next steps were a host-side decoder, 
 
 ## Related
 
-[ESP32 EEG recorder](https://github.com/Curious-Utkarsh/EEG_UDL) · [Wearable BLE telemetry](https://github.com/Curious-Utkarsh/Wearable-IOT)
+[ESP32 EEG recorder](https://github.com/Curious-Utkarsh/esp32-eeg-recorder) · [Wearable BLE telemetry](https://github.com/Curious-Utkarsh/wearable-ble-telemetry)
 
 ---
 [Kumar Utkarsh](https://github.com/Curious-Utkarsh) · [LinkedIn](https://www.linkedin.com/in/kumar-utkarsh-124aab227/)
