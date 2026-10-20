@@ -6,7 +6,7 @@
 
 Firmware for capturing accelerometer and gyroscope data at **25 kHz** and getting it off the microcontroller without losing samples. It pairs an ST **IIS3DWB** wide-bandwidth vibration accelerometer with an InvenSense **MPU9250** gyroscope, and explores four competing system designs for reading both sensors in step.
 
-Built during my internship and Research Assistant role at IIT Bombay (NCAIR, Machine Intelligence Program), 2025.
+Built in 2025.
 
 ## Key features
 
