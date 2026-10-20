@@ -25,7 +25,7 @@ ESP32-S3 variants: `ESPS3_Accel.ino`, `ESPS3_Gyro.ino`.
 
 ## Side finding
 
-While probing a 4 MHz SPI clock on a breadboard, the clock edges curved like a charging capacitor — parasitic capacitance of the breadboard itself.
+While probing a 4 MHz SPI clock on a breadboard, the clock edges curved like a charging capacitor — parasitic capacitance of the breadboard itself ([LinkedIn write-up](https://www.linkedin.com/feed/update/urn:li:activity:7301931492283162624/)).
 
 ## Status
 
